@@ -8,3 +8,6 @@
 > Commits you push to the connected branch sync back to Lovable and show up in
 > the editor, so keep the branch in a working state.
 <!-- LOVABLE:END -->
+
+## App structure
+- Keep the single-page apology experience in the existing home route with static content and local interaction state; no server or persistence is needed for this personal microsite.
